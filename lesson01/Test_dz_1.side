@@ -1,0 +1,131 @@
+{
+  "id": "9603af56-f560-468a-acf5-c77e3669c098",
+  "version": "2.0",
+  "name": "Test_dz_1",
+  "url": "https://mail.ru",
+  "tests": [{
+    "id": "a76297f1-18a1-4bf7-b6f3-4ce2b979757d",
+    "name": "test_auth",
+    "commands": [{
+      "id": "79abc172-4879-4084-9564-7a243bd33274",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "478f2a69-edd6-4a51-b7c1-90013afe6552",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "962x1040",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "45144236-8701-4115-bc2d-e84f2e7392cd",
+      "comment": "",
+      "command": "click",
+      "target": "css=.resplash-btn_primary",
+      "targets": [
+        ["css=.resplash-btn_primary", "css:finder"],
+        ["xpath=//div[@id='mailbox']/div/button", "xpath:idRelative"],
+        ["xpath=//div[2]/div/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "35ae5cbf-c094-4d2b-9d72-732e1f544b23",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=1",
+      "targets": [
+        ["index=2"]
+      ],
+      "value": ""
+    }, {
+      "id": "855840fd-b4b9-4fd2-a7a2-bf9415dd178a",
+      "comment": "",
+      "command": "click",
+      "target": "name=username",
+      "targets": [
+        ["name=username", "name"],
+        ["css=.focus-0-2-61 .input-0-2-71", "css:finder"],
+        ["xpath=//input[@name='username']", "xpath:attributes"],
+        ["xpath=//div[@id='root']/div/div/div/div[2]/div/div/form/div[2]/div[2]/div/div/div/div/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "7a44e2be-b1f0-4d1c-b49b-0ee6f7e28d88",
+      "comment": "",
+      "command": "type",
+      "target": "name=username",
+      "targets": [
+        ["name=username", "name"],
+        ["css=.focus-0-2-61 .input-0-2-71", "css:finder"],
+        ["xpath=//input[@name='username']", "xpath:attributes"],
+        ["xpath=//div[@id='root']/div/div/div/div[2]/div/div/form/div[2]/div[2]/div/div/div/div/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "testov1960@list.ru"
+    }, {
+      "id": "528bf8a8-aa95-4a7b-b469-14d3533719bd",
+      "comment": "",
+      "command": "click",
+      "target": "css=.innerTextWrapper-0-2-82:nth-child(1)",
+      "targets": [
+        ["css=.innerTextWrapper-0-2-82:nth-child(1)", "css:finder"],
+        ["xpath=//div[@id='root']/div/div/div/div[2]/div/div/form/div[2]/div[2]/div[3]/div/div/div/button/span", "xpath:idRelative"],
+        ["xpath=//button/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Ввести пароль')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "f2c042b8-37db-481c-9d0b-59102c66c2ce",
+      "comment": "",
+      "command": "click",
+      "target": "name=password",
+      "targets": [
+        ["name=password", "name"],
+        ["css=.withIcon-0-2-72", "css:finder"],
+        ["xpath=//input[@name='password']", "xpath:attributes"],
+        ["xpath=//div[@id='root']/div/div/div/div[2]/div/div/form/div[2]/div/div[2]/div/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div/div/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c9bd84b9-35a9-444a-986f-624dfb353432",
+      "comment": "",
+      "command": "type",
+      "target": "name=password",
+      "targets": [
+        ["name=password", "name"],
+        ["css=.withIcon-0-2-72", "css:finder"],
+        ["xpath=//input[@name='password']", "xpath:attributes"],
+        ["xpath=//div[@id='root']/div/div/div/div[2]/div/div/form/div[2]/div/div[2]/div/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div/div/div/input", "xpath:position"]
+      ],
+      "value": "olu$ytTIRU12"
+    }, {
+      "id": "968a599a-26db-40df-a879-b338b2b19b65",
+      "comment": "",
+      "command": "click",
+      "target": "css=.innerTextWrapper-0-2-82:nth-child(1)",
+      "targets": [
+        ["css=.innerTextWrapper-0-2-82:nth-child(1)", "css:finder"],
+        ["xpath=//div[@id='root']/div/div/div/div[2]/div/div/form/div[2]/div/div[3]/div/div/div/div/button/span", "xpath:idRelative"],
+        ["xpath=//button/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Войти')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "6c8f27f5-788b-48c3-af5b-a0f655ec6aa8",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["a76297f1-18a1-4bf7-b6f3-4ce2b979757d"]
+  }],
+  "urls": ["https://mail.ru/"],
+  "plugins": []
+}
