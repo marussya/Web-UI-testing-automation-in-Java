@@ -1,0 +1,15 @@
+Построение локаторов (дополнительное задание)
+5-10 локаторов
+1) Кнопка "Войти" на главной странице https://mail.ru/:
+/html/body/main//button[@data-testid="enter-mail-primary"]
+2) Кнопка "Ввести пароль" на фрейме авторизации:
+/html/body//button[@data-test-id="next-button"]
+3) Ссылка на случайный гороскоп:
+/html/body//a[@class="horoscope i-link-no-deco svelte-1xeajcj"]
+4) ссылка на ленту Пульс:
+/html/body//a[@class="pl_k"]
+5) ссылка на политику конфиденциальности:
+/html/body//a[@href="//help.mail.ru/legal/terms/common/privacy"]
+	
+
+
