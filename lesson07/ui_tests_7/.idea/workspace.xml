@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8363cfb3-cde2-4eab-b2df-cac81a99a0c1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26ePjkUP6z2ZFgramwP80MG7K9P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\ui_tests_2\src\main\resourses" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CucumberTestsRunner">
+    <configuration name="AfishaTest.likeRandomFilmTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ui_tests_7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.qa.lesson05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.gb.qa.lesson05" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.qa.lesson05.AfishaTest" />
+      <option name="METHOD_NAME" value="likeRandomFilmTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CucumberTestsRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ui_tests_7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.qa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.gb.qa" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.qa.CucumberTestsRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionsTest.catTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ui_tests_7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.qa.lesson04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.gb.qa.lesson04" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.qa.lesson04.FunctionsTest" />
+      <option name="METHOD_NAME" value="catTest(ru.gb.qa.lesson04.Cat,java.lang.Integer)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionsTest.givenPrimeNumberWhenCollIsPrimeThenTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ui_tests_7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.qa.lesson04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.gb.qa.lesson04" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.qa.lesson04.FunctionsTest" />
+      <option name="METHOD_NAME" value="givenPrimeNumberWhenCollIsPrimeThenTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionsTest.isPalindromePositiveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ui_tests_7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.qa.lesson04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.gb.qa.lesson04" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.qa.lesson04.FunctionsTest" />
+      <option name="METHOD_NAME" value="isPalindromePositiveTest(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CucumberTestsRunner" />
+        <item itemvalue="JUnit.FunctionsTest.catTest" />
+        <item itemvalue="JUnit.FunctionsTest.isPalindromePositiveTest" />
+        <item itemvalue="JUnit.FunctionsTest.givenPrimeNumberWhenCollIsPrimeThenTrue" />
+        <item itemvalue="JUnit.AfishaTest.likeRandomFilmTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8363cfb3-cde2-4eab-b2df-cac81a99a0c1" name="Changes" comment="" />
+      <created>1647781216170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647781216170</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/gb/qa/lesson03/DiaryTest.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ru/gb/qa/lesson05/AfishaTest.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ru/gb/qa/lesson05/AfishaTest.java</url>
+          <line>42</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
